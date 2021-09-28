@@ -1,0 +1,11 @@
+{
+  "name": "codoto",
+  "version": "1.0.0",
+  "description": "Write entire functions just by entering a few digits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js test"
+  },
+  "author": "martia_f",
+  "license": "MIT"
+}

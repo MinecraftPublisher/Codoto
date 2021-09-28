@@ -1,2 +1,2 @@
 # Codoto
- Write entire functions just by entering a few digits.
+Write entire functions just by entering a few digits.
