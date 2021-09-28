@@ -1,6 +1,6 @@
 {
   "name": "codoto",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Write entire functions just by entering a few digits.",
   "main": "./bin/index.js",
   "scripts": {
