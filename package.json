@@ -2,9 +2,13 @@
   "name": "codoto",
   "version": "1.0.0",
   "description": "Write entire functions just by entering a few digits.",
-  "main": "index.js",
+  "main": "./bin/index.js",
   "scripts": {
     "test": "node index.js test"
+  },
+  "bin": {
+    "codoto": "./bin/index.js",
+    "compile": "./bin/compiler.js"
   },
   "author": "martia_f",
   "license": "MIT"
