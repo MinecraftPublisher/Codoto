@@ -1,0 +1,5 @@
+{
+    "name": "codoto",
+    "id": "000000",
+    "function": "module.exports = () => \"Code 0 - SUCCESS\""
+}
