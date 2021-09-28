@@ -1,6 +1,5 @@
 # Codoto
-![Created Badge](https://badges.pufler.dev/created/MinecraftPublisher/codoto)
-
+![Created Badge](https://badges.pufler.dev/created/MinecraftPublisher/codoto)<br>
 Write entire functions just by entering a few digits.
 
 ## What is codoto?
