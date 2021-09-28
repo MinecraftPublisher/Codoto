@@ -4,7 +4,7 @@
   "description": "Write entire functions just by entering a few digits.",
   "main": "./bin/index.js",
   "scripts": {
-    "test": "node index.js test"
+    "test": "node bin/index.js test"
   },
   "bin": {
     "codoto": "./bin/index.js",
